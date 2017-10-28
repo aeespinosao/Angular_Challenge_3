@@ -1,0 +1,18 @@
+img{
+  border-radius: 50%;
+  width: 400px !important;
+  height: 400px;
+}
+
+h3{
+  color: black;
+}
+
+div{
+  border-radius: 25px;
+  border: 2px dotted black;
+}
+
+footer{
+  padding-top: 100px;
+}
